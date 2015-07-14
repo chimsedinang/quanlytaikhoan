@@ -1,0 +1,19 @@
+step 1: move to Folder save;
+step 2: config:-git config --global user.name "Name"
+	   -git config --global user.email "Email"
+step 3: download Application from gitgub.com to Folder: git clone https://github.com/UserGitHub/Application
+step 4:Push file from Folder to githus.com where Update Folder: 
+	+ move to Folder Container git Clone download from github.com
+	+git add .
+	+git commit -m "COMMENT IS Here"
+	+git tag TenTAG
+	+git push origin master
+	+git push TenTag
+step 5:Update data from github.com to Computer: git pull;
+=============finish=====================
+	
+
+
+
+
+
